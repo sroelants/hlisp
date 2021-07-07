@@ -13,6 +13,7 @@ No REPL yet. The Main module exports a utility `interpret` function that will re
 - [✓] Let bindings (`(let x 5 (+ x x))`)
 - [✓] Conditionals (`(if (= (+ 2 2) 5) "Big Brother won" "Still the captain of my soul")`)
 - [ ] Quoting (hurts my brain) (`(quote (1 2 3))`)
+- [ ] REPL 
 
 ## Standard library
 hlisp supports a vast standard library:
